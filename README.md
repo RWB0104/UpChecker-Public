@@ -16,10 +16,6 @@
 	UpBit 공지사항 & 프로젝트 공시 확인 프로그램
 </p>
 
-<p align="center">
-	다운로드 제공 예정
-</p>
-
 # INFO
 
 개발언어 : `JavaScript`
